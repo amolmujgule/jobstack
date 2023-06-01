@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "email": "john@gmail.com",
+      "name": "john",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "company": [
+    {
+      "email": "google@gmail.com",
+      "name": "Google",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "google@gmail.com",
+      "name": "Google",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "jobs": [
+    {
+      "city": "pune",
+      "desc": "full stack Developer",
+      "experience": "0-1 year",
+      "salary": 20000,
+      "title": "jr.Developer",
+      "companyId": 1,
+      "companyName": "Google",
+      "id": 2
+    },
+    {
+      "city": "pune",
+      "desc": "full stack Developer",
+      "experience": "0-1 year",
+      "salary": 20000,
+      "title": "jr.Developer",
+      "companyId": 1,
+      "companyName": "Google",
+      "id": 3
+    },
+    {
+      "city": "pune",
+      "desc": "full stack Developer",
+      "experience": "0-1 year",
+      "salary": 20000,
+      "title": "jr.Developer",
+      "companyId": 1,
+      "companyName": "Google",
+      "id": 4
+    }
+  ]
+}
